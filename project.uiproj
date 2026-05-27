@@ -1,0 +1,6 @@
+{
+  "Name": "SmartHeritageGuideAutomation",
+  "ProjectType": "Process",
+  "Description": "Blank Task",
+  "MainFile": "Main.xaml"
+}
